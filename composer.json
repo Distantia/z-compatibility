@@ -1,0 +1,27 @@
+{
+    "name": "distantia/z-compatibility",
+    "type": "library",
+    "description": "Test compatibility of server.",
+    "keywords": [
+        "compatibility",
+        "server",
+        "php",
+        "apache"
+    ],
+    "homepage": "http://www.distantia.ca",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Distantia",
+            "homepage": "http://www.distantia.ca"
+        }
+    ],
+    "require": {
+        "php": ">=5.0.0"
+    },
+    "autoload": {
+        "psr-0": {
+            "Distantia\\ZCompatibility": "src/"
+        }
+    }
+}
