@@ -1,3 +1,6 @@
+# Quick setup
+Just upload zc.php and run it.
+
 # Usage
 See examples/
 
